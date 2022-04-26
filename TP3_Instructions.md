@@ -15,7 +15,7 @@ The household is in the Picardie region, is made of red brick, and is occupied b
 
 # To Do
 
-Working in groups, try to answer the following questions using Altair (vega-lite) and http://rawgraphs.io. Compare and report. 
+Working in groups, try to answer the following questions using [Altair](https://altair-viz.github.io/getting_started/overview.html) (see [notebook example](https://github.com/javieraespinosa/dataviz-cpe/blob/main/TP3_Exploring_Household_Data.ipynb)) and [Rawgraphs.io](http://rawgraphs.io). Compare and report. 
 
 * Produce a line graph showing the electricity consumption over time. 
   * Do you observe any pattern?
